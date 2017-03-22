@@ -1,8 +1,8 @@
-#Hard Game 2048
+# Hard Game 2048
+
 This version is more hard than the usual `Game 2048`.
 
-
-###judge algorithm
+### judge algorithm
 
  * It iterates all directions can be moved in next operation.
 
