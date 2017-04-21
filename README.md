@@ -14,4 +14,4 @@ This version is more hard than the usual `Game 2048`.
 
 Usually,when `situation hard level` come up around `24~28`,it turns out that game is going over immediately.
 
-The newest version is on [sinaapp](http://hard2048.sinaapp.com)
+The newest version is on [sinaapp](http://weidwonder.github.io/Hard-Game-2048/)
